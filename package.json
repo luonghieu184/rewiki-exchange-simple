@@ -2,7 +2,7 @@
   "name": "rewiki-exchange-simple",
   "version": "1.1.0",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@luonghieu184:registry": "https://npm.pkg.github.com"
   },
   "exports": {
     ".": "./src/"
