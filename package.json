@@ -1,6 +1,6 @@
 {
-  "name": "rewiki-exchange",
-  "version": "0.1.0",
+  "name": "rewiki-exchange-simple",
+  "version": "1.1.0",
   "exports": {
     ".": "./src/"
   },
@@ -44,5 +44,25 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^3.2.5"
-  }
+  },
+  "description": "Free to download and use rewiki anywhere. \r Free use package for development on rewiki-exchange",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luonghieu184/rewiki-exchange-simple.git"
+  },
+  "keywords": [
+    "rewiki",
+    "simple",
+    "exchange",
+    "exchange",
+    "simple",
+    "template"
+  ],
+  "author": "rewikipx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luonghieu184/rewiki-exchange-simple/issues"
+  },
+  "homepage": "https://github.com/luonghieu184/rewiki-exchange-simple#readme"
 }
