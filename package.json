@@ -1,6 +1,9 @@
 {
   "name": "rewiki-exchange-simple",
   "version": "1.1.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "exports": {
     ".": "./src/"
   },
@@ -65,4 +68,5 @@
     "url": "https://github.com/luonghieu184/rewiki-exchange-simple/issues"
   },
   "homepage": "https://github.com/luonghieu184/rewiki-exchange-simple#readme"
+  
 }
