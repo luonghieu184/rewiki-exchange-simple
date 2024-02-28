@@ -1,9 +1,6 @@
 {
-  "name": "rewiki-exchange-simple",
+  "name": "@luonghieu184/rewiki-exchange-simple",
   "version": "1.1.0",
-  "publishConfig": {
-    "@luonghieu184:registry": "https://npm.pkg.github.com"
-  },
   "exports": {
     ".": "./src/"
   },
@@ -57,10 +54,7 @@
   "keywords": [
     "rewiki",
     "simple",
-    "exchange",
-    "exchange",
-    "simple",
-    "template"
+    "exchange"
   ],
   "author": "rewikipx",
   "license": "MIT",
@@ -68,5 +62,4 @@
     "url": "https://github.com/luonghieu184/rewiki-exchange-simple/issues"
   },
   "homepage": "https://github.com/luonghieu184/rewiki-exchange-simple#readme"
-  
 }
