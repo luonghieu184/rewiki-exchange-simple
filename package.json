@@ -1,5 +1,5 @@
 {
-  "name": "@luonghieu184/rewiki-exchange-simple",
+  "name": "rewiki-exchange-simple",
   "version": "1.1.0",
   "exports": {
     ".": "./src/"
